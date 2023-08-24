@@ -1,0 +1,1 @@
+This is a project I have created as part of The Odin Project. The aim is to create a visually-pleasing landing page using the basic HTML and CSS skills I have learnt so far.
